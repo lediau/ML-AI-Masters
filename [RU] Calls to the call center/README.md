@@ -5,6 +5,8 @@
 
 Ссылка на Kaggle: https://www.kaggle.com/competitions/aim-2023-callcenter
 
+Ссылка на дополнительные данные: https://drive.google.com/file/d/14iffAUsuVfV3Q3olbF9eK_acdxTCsk3P/view?usp=sharing
+
 ### Разрешается:
 - Использовать дополнительные данные
 
